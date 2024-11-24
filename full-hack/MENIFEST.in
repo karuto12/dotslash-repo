@@ -1,0 +1,2 @@
+include src/weights/*.pth  # Include model weights
+include src/configs/*.json # Include configuration files
