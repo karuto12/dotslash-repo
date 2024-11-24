@@ -60,3 +60,5 @@ Provides:
    ```bash
    git clone https://github.com/your-username/semantic-search-app.git
    cd semantic-search-app
+### **Challenges in GitHub Usage and Code Collaboration**
+-We were initially unfamiliar with GitHub and its effectiveness in collaborative work. As a result, we only pushed our code when explicitly asked to do so, which limited our ability to leverage the platform fully throughout the project
